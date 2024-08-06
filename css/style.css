@@ -23,6 +23,8 @@ a {
     position: relative;
     color:  rgba(61, 61, 61, 1);
     font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
 }
 
 a span.underline {
